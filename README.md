@@ -1,6 +1,8 @@
 <font face = "Play">
  <h1 align="center">IGHOSTFACEI</h1>
+ <h3 align="center">CLICK ME</h3>
  <div align="center"><img src="https://i.ibb.co/GQTFLch/Ghost-Face.gif" alt="GhostFacePixel" width="50%"></div>
+
 <!--  <div align="center"><img src="https://media0.giphy.com/media/KB7Moe2Oj0BXeDjvDp/giphy.gif" alt="the wekend" width="90%"></div> -->
  
   <div align="left">
