@@ -1,6 +1,6 @@
 <font face = "Play">
  <font color = #d58cff size = 6><h1 align="center">IGHOSTFACEI</h1></color></font>
-  <div align="center"><img src="https://external-preview.redd.it/-K30ToYs0c7sdRN1BTGzmlgeJCjvfp-t86zh75BiG2c.gif" alt="code" width="50%"></div>
+  <div align="center"><img src="https://ibb.co/WvtswgT" alt="code" width="50%"></div>
 <!--  <div align="center"><img src="https://media0.giphy.com/media/KB7Moe2Oj0BXeDjvDp/giphy.gif" alt="the wekend" width="90%"></div> -->
  
   <div align="left">
