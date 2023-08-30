@@ -1,6 +1,6 @@
 <font face = "Play">
  <font color = #d58cff size = 6><h1 align="center">IGHOSTFACEI</h1></color></font>
-  <div align="center"><img src="https://github.com/ldaWeb/ldaWeb/assets/120786298/389effa8-dfdb-45d1-9728-8e017ef8dc23.gif" alt="code" width="50%"></div>
+  <div align="center"><img src="https://github.com/lGHOSTFACEl/lGHOSTFACEl/assets/120786298/37f4aa9b-2231-4c23-b89f-f20b4ce07b9d.gif" alt="code" width="50%"></div>
 <!--  <div align="center"><img src="https://media0.giphy.com/media/KB7Moe2Oj0BXeDjvDp/giphy.gif" alt="the wekend" width="90%"></div> -->
  
   <div align="left">
