@@ -1,6 +1,6 @@
 <font face = "Play">
  <font color = #d58cff size = 6><h1 align="center">IGHOSTFACEI</h1></color></font>
-  <div align="center"><img src="https://github.com/lGHOSTFACEl/lGHOSTFACEl/assets/120786298/37f4aa9b-2231-4c23-b89f-f20b4ce07b9d.gif" alt="code" width="50%"></div>
+  <div align="center"><img src="https://external-preview.redd.it/-K30ToYs0c7sdRN1BTGzmlgeJCjvfp-t86zh75BiG2c.gif" alt="code" width="50%"></div>
 <!--  <div align="center"><img src="https://media0.giphy.com/media/KB7Moe2Oj0BXeDjvDp/giphy.gif" alt="the wekend" width="90%"></div> -->
  
   <div align="left">
@@ -10,12 +10,11 @@
   <h4> 🔪 I'm a frontend developer, I write code in HTML, CSS and JavaScript and have some experience with ReactJS. I also plan to learn ReactJS, TypeScript, and Redux </h4>
   <h4> 🔪 I build high-quality, intuitive, and aesthetically pleasing websites </h4>
   <h4> 🔪 You can also check out my projects in the repositories </h4>
- 
+
   <hr>
 
  <div align="right">
   <font size = 3><h3>Languages and Tools</h3></font>
-
 
   <img  src="https://user-images.githubusercontent.com/120786298/208248247-86f838ae-3c42-42a1-bf9f-fafaba18e8b5.png" alt="CSS"           width="40" height="40">
   <img  src="https://user-images.githubusercontent.com/120786298/208248203-729a2254-ecc6-4e65-afeb-1a59c4519cc6.png" alt="HTML" width="40" height="40">
