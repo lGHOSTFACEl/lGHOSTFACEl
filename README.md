@@ -8,10 +8,10 @@
   <div align="left">
   <font size = 4><h3 align="center"> About me </h3></font>
   <hr>
-  <h4> 🔪 Hi, I'm IGHOSTFACEI! </h4>
-  <h4> 🔪 I'm a frontend developer, I write code in HTML, CSS and JavaScript and have some experience with ReactJS. I also plan to learn ReactJS, TypeScript, and Redux </h4>
-  <h4> 🔪 I build high-quality, intuitive, and aesthetically pleasing websites </h4>
-  <h4> 🔪 You can also check out my projects in the repositories </h4>
+  <h4> 👻 Hi, I'm IGHOSTFACEI! </h4>
+  <h4> 👻 I'm a frontend developer, I write code in HTML, CSS and JavaScript and have some experience with ReactJS. I also plan to learn ReactJS, TypeScript, and Redux </h4>
+  <h4> 👻 I build high-quality, intuitive, and aesthetically pleasing websites </h4>
+  <h4> 👻 You can also check out my projects in the repositories </h4>
 
   <hr>
 
